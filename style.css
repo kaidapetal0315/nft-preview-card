@@ -185,3 +185,13 @@ main {
 .image-container:hover .image-overlay {
   opacity: 1;
 }
+
+@media screen and (max-width: 400px) {
+  .card {
+    max-width: 33rem;
+  }
+
+  .card-subtitle {
+    font-size: 1.6rem;
+  }
+}
