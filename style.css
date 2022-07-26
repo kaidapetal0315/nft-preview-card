@@ -65,7 +65,7 @@ main {
 }
 
 .card {
-  max-width: 32rem;
+  max-width: 35rem;
   background-color: var(--card-blue);
   padding: 25px;
   border-radius: 15px;
@@ -73,4 +73,16 @@ main {
 .cube-image {
   width: 100%;
   border-radius: 10px;
+}
+.card-heading {
+  font-size: 2.2rem;
+  font-weight: 600;
+  color: #fff;
+  margin: 2.2rem 0;
+}
+
+.card-subtitle {
+  font-size: 1.8rem;
+  font-weight: 300;
+  color: var(--soft-blue);
 }
