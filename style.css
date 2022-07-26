@@ -41,3 +41,11 @@ The designs were created to the following widths:
   --card-blue: hsl(216, 50%, 16%);
   --line-blue: hsl(215, 32%, 27%);
 }
+
+*,
+*::before,
+*::after {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
