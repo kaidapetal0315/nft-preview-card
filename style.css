@@ -118,3 +118,25 @@ main {
   font-weight: 400;
   color: var(--soft-blue);
 }
+
+.creator {
+  display: flex;
+  align-items: center;
+  gap: 2rem;
+  margin-top: 2rem;
+  margin-bottom: 1rem;
+}
+
+.creator img {
+  width: 11%;
+  border: 1px solid #fff;
+  border-radius: 50%;
+}
+
+.creation {
+  font-size: 1.6rem;
+  color: var(--soft-blue);
+}
+.creators-name {
+  color: #fff;
+}
