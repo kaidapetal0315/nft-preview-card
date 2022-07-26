@@ -86,3 +86,11 @@ main {
   font-weight: 300;
   color: var(--soft-blue);
 }
+
+.price-box {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding: 2rem 0;
+  border-bottom: 1px solid var(--line-blue);
+}
