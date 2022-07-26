@@ -63,3 +63,14 @@ main {
   align-items: center;
   justify-content: center;
 }
+
+.card {
+  max-width: 32rem;
+  background-color: var(--card-blue);
+  padding: 25px;
+  border-radius: 15px;
+}
+.cube-image {
+  width: 100%;
+  border-radius: 10px;
+}
