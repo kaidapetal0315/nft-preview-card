@@ -91,7 +91,7 @@ main {
   display: flex;
   align-items: center;
   justify-content: space-between;
-  padding: 2rem 0;
+  padding: 2.4rem 0;
   border-bottom: 1px solid var(--line-blue);
 }
 
@@ -105,4 +105,16 @@ main {
   color: var(--cyan);
   font-size: 1.6rem;
   font-weight: 600;
+}
+
+.days-left {
+  display: flex;
+  align-items: center;
+  gap: 1rem;
+}
+
+.days {
+  font-size: 1.6rem;
+  font-weight: 400;
+  color: var(--soft-blue);
 }
