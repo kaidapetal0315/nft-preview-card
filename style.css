@@ -55,6 +55,9 @@ html {
 body {
   background-color: var(--main-blue);
   font-family: "Outfit", sans-serif;
+}
+
+main {
   min-height: 100vh;
   display: flex;
   align-items: center;
