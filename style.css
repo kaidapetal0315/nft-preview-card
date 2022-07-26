@@ -94,3 +94,15 @@ main {
   padding: 2rem 0;
   border-bottom: 1px solid var(--line-blue);
 }
+
+.eth-price {
+  display: flex;
+  align-items: center;
+  gap: 1rem;
+}
+
+.ethereum {
+  color: var(--cyan);
+  font-size: 1.6rem;
+  font-weight: 600;
+}
