@@ -49,3 +49,14 @@ The designs were created to the following widths:
   margin: 0;
   padding: 0;
 }
+html {
+  font-size: 62.5%;
+}
+body {
+  background-color: var(--main-blue);
+  font-family: "Outfit", sans-serif;
+  min-height: 100vh;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
