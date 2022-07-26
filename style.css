@@ -78,13 +78,14 @@ main {
   font-size: 2.2rem;
   font-weight: 600;
   color: #fff;
-  margin: 2.2rem 0;
+  margin: 1.8rem 0;
 }
 
 .card-subtitle {
   font-size: 1.8rem;
   font-weight: 300;
   color: var(--soft-blue);
+  line-height: 1.5;
 }
 
 .price-box {
@@ -98,7 +99,7 @@ main {
 .eth-price {
   display: flex;
   align-items: center;
-  gap: 1rem;
+  gap: 0.8rem;
 }
 
 .ethereum {
@@ -110,7 +111,7 @@ main {
 .days-left {
   display: flex;
   align-items: center;
-  gap: 1rem;
+  gap: 0.8rem;
 }
 
 .days {
@@ -123,7 +124,7 @@ main {
   display: flex;
   align-items: center;
   gap: 2rem;
-  margin-top: 2rem;
+  margin-top: 1.8rem;
   margin-bottom: 1rem;
 }
 
