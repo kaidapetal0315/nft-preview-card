@@ -96,7 +96,7 @@ main {
   font-size: 2.2rem;
   font-weight: 600;
   color: #fff;
-  margin: 1.8rem 0;
+  margin: 2.2rem 0 1.6rem 0;
 }
 
 .card-subtitle {
@@ -141,9 +141,9 @@ main {
 .creator {
   display: flex;
   align-items: center;
-  gap: 2rem;
-  margin-top: 1.8rem;
-  margin-bottom: 1rem;
+  gap: 1.6rem;
+  margin-top: 1.6rem;
+  margin-bottom: 0.8rem;
 }
 
 .creator img {
